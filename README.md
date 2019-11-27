@@ -4,6 +4,7 @@
 	# THE OLYMPICS DATA VISUALIZATION 
 </head>
 <body>
+	<img src="images/Flag_of_the_United_States.svg">
 <p>
 	Creating visualization graphs by using python with the dataset provided of olympic games. Sort the data given and using main subjects to plot the graph residing a story.<br><br><br>
 <h2>Getting started</h2>
